@@ -32,8 +32,6 @@ declare module 'vue' {
     ASubMenu: typeof import('@arco-design/web-vue')['SubMenu']
     ATable: typeof import('@arco-design/web-vue')['Table']
     ATextarea: typeof import('@arco-design/web-vue')['Textarea']
-    CustomFooter: typeof import('./../components/custom-footer.vue')['default']
-    CustomHeader: typeof import('./../components/custom-header.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
   }

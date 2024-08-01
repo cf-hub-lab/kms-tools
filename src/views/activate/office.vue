@@ -9,7 +9,7 @@ const formData = reactive({
   version: '',
   product: '',
   cpuarch: false,
-  service: 'kms.moeclub.org',
+  service: 'kms.eber.vip',
   license: '',
 })
 
